@@ -6,6 +6,6 @@
 
 0.03% of the cases are fraud - a very skewed dataset. Techniques such as undersampling, oversampling or SMOTE can be used to get better results. Also, the evaluation metric should take into account the skewness of the dataset.
 
-<img src="transactiondt.png" width="400px">
+<img src="transactiondt.png" width="600px">
 
 Transaction Dates do not overlap between the train and test dataset. Time based split can be used in cross validation of models.
