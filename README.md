@@ -9,3 +9,7 @@
 <img src="transactiondt.png" width="600px">
 
 Transaction Dates do not overlap between the train and test dataset. Time based split can be used in cross validation of models.
+
+<img src="transactiondt.png" width="600px">
+
+Distribution of Transaction Amounts
