@@ -28,6 +28,10 @@ Card Features
 
 1) Drop Features with more than 90% values missing
 2) Drop noisy features like TransactionID
+3) Add card interaction features 
+4) Add features for card and address interaction
+5) Add mean and std of transaction amounts grouped by card and card interaction features
+6) Take care of remaining missing values
 
 <img src="featureimportance.png" width="600px">
 
