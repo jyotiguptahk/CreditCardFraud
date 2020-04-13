@@ -1,6 +1,12 @@
 # CreditCardFraud
  This project is for the kaggle competition related to Credit Card Fraud. The aim of the project is to predict the probability that an online transaction is fraudulent. The data is provided by the world’s leading payment service company, Vesta Corporation. More details of the competition can be found [here](https://www.kaggle.com/c/ieee-fraud-detection/). 
 
+ ### Technologies Used
+ python
+ pandas
+ scikit-learn
+ lightgbm
+
 ### Exploratory Data Analysis
 <img src="target.png" width="400px">
 
@@ -14,12 +20,19 @@ Transaction Dates do not overlap between the train and test dataset. Time based 
 
 Distribution of Transaction Amounts
 
+<img src="cardfeatures.png" width="600px">
+
+Card Features
+
 ### Feature Selection and Feature Engineering
 
+<img src="featureimportance.png" width="600px">
+
+Feature Importance
 
 ### Model Training
-LightGBM model was used for training. More information about the LightGBM library can be found [here](https://github.com/microsoft/LightGBM)
+LightGBM model was used for training. More information about the LightGBM library can be found [here.](https://github.com/microsoft/LightGBM)
 
 
 ### Model Evaluation
-The model achieved a final area under auc curve of `94.67%`
+The model achieved a final area under auc curve of `94.67%`.
