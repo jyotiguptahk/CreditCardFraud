@@ -1,5 +1,5 @@
 # CreditCardFraud
- This project is for the kaggle competition related to Credit Card Fraud. More details of the competition can be found [here](https://www.kaggle.com/c/ieee-fraud-detection/). 
+ This project is for the kaggle competition related to Credit Card Fraud. The aim of the project is to predict the probability that an online transaction is fraudulent. The data is provided by the world’s leading payment service company, Vesta Corporation. More details of the competition can be found [here](https://www.kaggle.com/c/ieee-fraud-detection/). 
 
 ### Exploratory Data Analysis
 <img src="target.png" width="400px">
