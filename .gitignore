@@ -123,3 +123,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# added by Jyoti
+*.png
+.gitignore
+.gitattributes
