@@ -43,3 +43,5 @@ LightGBM model was used for training. More information about the LightGBM librar
 
 ### Model Evaluation
 The model achieved a final area under auc curve of `94.67%`.
+
+Contact me at jyotiguptahk@gmail.com for more details. 
