@@ -24,7 +24,10 @@ Distribution of Transaction Amounts
 
 Card Features
 
-### Feature Selection and Feature Engineering
+### Data Preparation, Feature Selection and Feature Engineering
+
+1) Drop Features with more than 90% values missing
+2) Drop noisy features like TransactionID
 
 <img src="featureimportance.png" width="600px">
 
