@@ -26,12 +26,12 @@ Card Features
 
 ### Data Preparation, Feature Selection and Feature Engineering
 
-1) Drop Features with more than 90% values missing
-2) Drop noisy features like TransactionID
-3) Add card interaction features 
-4) Add features for card and address interaction
-5) Add mean and std of transaction amounts grouped by card and card interaction features
-6) Take care of remaining missing values
+1) Dropped Features with more than 90% values missing
+2) Dropped noisy features like TransactionID
+3) Added card interaction features 
+4) Added features for card and address interaction
+5) Added mean and std of transaction amounts grouped by card and card interaction features
+6) Took care of remaining missing values
 
 <img src="featureimportance.png" width="600px">
 
