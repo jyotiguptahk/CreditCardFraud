@@ -13,3 +13,13 @@ Transaction Dates do not overlap between the train and test dataset. Time based 
 <img src="transactiondt.png" width="600px">
 
 Distribution of Transaction Amounts
+
+### Feature Selection and Feature Engineering
+
+
+### Model Training
+LightGBM model was used for training. More information about the LightGBM library can be found [here](https://github.com/microsoft/LightGBM)
+
+
+### Model Evaluation
+The model achieved a final area under auc curve of `94.67%`
